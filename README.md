@@ -5,9 +5,15 @@ Using this project, we propose to use machine learning ensemble approach for aut
 Our study explores different textual properties that can be used to distinguish fake contents from real. 
 By using those properties, we train a combination of different machine learning algorithms using various ensemble methods and evaluate their performance on real world datasets. 
 We have used 6 Machine Learning algorithms for the same. These include:
+
 • Logistic Regression
+
 • Decision Tree Classifier
+
 • XG Boost
+
 • Support Vector Machine (SVM)
+
 • Random Forest Classifier
+
 • Naïve Bayes
